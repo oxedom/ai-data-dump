@@ -7,7 +7,7 @@ mdc: true
 duration: 8min
 ---
 
-# ai-data-dump
+# ai-data-dump (non linear)
 
 <div class="text-2xl text-gray-400 mt-12">
 "LLMs are calculator's for words"
@@ -77,6 +77,7 @@ Context engineering is having the most relevant tokens in the context window for
 - Aim for 40-50% max usage
 - Layered CLAUDE.md files
 - Protect your context
+- `/init` generate CLAUDE.md (note about janitor.md)
 - `/context` to visualize
 - `/clear` to reset
 - `/compact` command to disable
@@ -132,7 +133,7 @@ git worktree add ../project-feature-b feature-b
 
 - Each coding agent gets its own directory
 - Sharing same origin (.git), different branches 
-- Notes on VibeKaban
+- Notes on VibeKaban and HaFlow
 
 
 ---
