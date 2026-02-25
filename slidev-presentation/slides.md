@@ -34,7 +34,6 @@ They are stateless - no memory between calls.
 sam@tlv:~$ whoami
 ```
 ```
------------
 name: sam brink
 title: ['builder', 'photographer']
 web: www.sam-brink.com
