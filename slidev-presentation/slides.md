@@ -37,7 +37,7 @@ sam@tlv:~$ whoami
 -----------
 name: sam brink
 title: ['builder', 'photographer']
-web: sam-brink.com
+web: www.sam-brink.com
 ```
 
 </div>
