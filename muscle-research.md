@@ -3,7 +3,6 @@ date: 2026-01-27T00:00:00+02:00
 researcher: Claude
 git_commit: 2930c7d3eaa26282002bc45cbeb4f5a5739820ee
 branch: main
-repository: mono-mytrainingapp
 topic: "Muscle Points Bar Chart - Codebase Research for Implementation"
 tags:
   [
@@ -26,7 +25,7 @@ last_updated_by: Claude
 **Researcher**: Claude
 **Git Commit**: 2930c7d3eaa26282002bc45cbeb4f5a5739820ee
 **Branch**: main
-**Repository**: mono-mytrainingapp
+
 
 ## Research Question
 
